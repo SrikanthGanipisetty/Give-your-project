@@ -3,5 +3,4 @@ My Own Web- Application. Still working with latest technologies
 
 
 
-THIS IS A DREAM APPLICATION I WANT TO BUILD HELPING STUDENTS< NEW COMMERS OR NOVICE COMPUTER USERS HELPING HOW TO BUILD< LEARN AND CAN SHARE THEIR
-PROJECTS, INNOVATIVE IDEAS AND I WANT TO MAKE IT WITH FULL SECURITY WITH ALL LATEST TECHNOLOGIES
+This is a dream website I want to build that has some useful content covering Technology, Agriculture, Food & Science. It will has the blogs / posts from me every single day atleast a post to keep tracking of viewers stay upto date with the most, latest news.
